@@ -1,0 +1,36 @@
+html {font-family: sans-serif;
+margin-right:10px;
+margin-left:10px;
+margin-top:;}
+
+table {
+position:relative;
+padding-left:;
+left:50%;
+margin-left:-100px;
+width:200px;
+text-align:center;
+background-color:white;
+height:120px;
+top:-2px;
+
+}
+
+a{target-new:tab;}
+
+a:link{color:#049BFF;
+	text-decoration:none;
+	font-weight:normal}
+a:visited{color:#005A97;}
+a:hover{text-decoration:underline;}
+a:active{font-weight: bolder;}
+
+h1 {color:;
+position:relative;
+margin-left:;
+text-align:center;}
+
+h2 {color:#004D80;}
+strong {color:#004D80;}
+
+body {line-height: 150%;}
